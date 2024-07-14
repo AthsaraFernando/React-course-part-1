@@ -4,7 +4,7 @@
 npm create vite@latest
 ```
 
-## Command - install dependencies (after going inside the project folder)
+## Command - install dependencies (after going inside project folder)
 
 ```
 npm install
