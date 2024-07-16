@@ -11,9 +11,6 @@ const Button = ({ children, onClick, color }: Props) => {
         {children}
       </button>
       <br></br>
-      <button className="btn btn-primary" onClick={onClick}>
-        {children}
-      </button>
     </>
   );
 };
