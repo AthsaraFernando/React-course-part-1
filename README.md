@@ -16,6 +16,12 @@ npm install
 npm run dev
 ```
 
+## Command - installing react icons
+
+```
+npm install react-icons
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
